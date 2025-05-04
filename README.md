@@ -72,7 +72,7 @@ A comprehensive, feature-rich e-commerce mobile application built with React Nat
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/shopapp.git
+git clone https://github.com/nxr-deen/shop-app.git
 cd shopapp
 \`\`\`
 
